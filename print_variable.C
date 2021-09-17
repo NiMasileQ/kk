@@ -4,6 +4,8 @@ int main() {
 
     int b = 87;
     for (int j = 5; j < 23; j++) {
+        printf("j=%d, a=%d\n", j, a*i);
+    }
         //give me some output messages in following format
         //and that can be done by add only ONE line code.
         //please refer to Google slides, page 22.
